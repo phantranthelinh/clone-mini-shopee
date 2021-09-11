@@ -1,2 +1,2 @@
-# clone-mini-shopee
+# shoppe/shop 
 link demo : https://phantranthelinh.github.io/clone-mini-shopee/
