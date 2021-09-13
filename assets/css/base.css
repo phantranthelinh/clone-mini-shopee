@@ -4,8 +4,9 @@
     --text-color:#333;
     --primary-color:#f53d2d;
     --navbar-height:40px;
-    --header-heigh:12rem;
-    --with-search-height: calc(var(--header-heigh) - var(--navbar-height) )
+    --header-height:12rem;
+    --header-sort-bar:46px;
+    --with-search-height: calc(var(--header-height) - var(--navbar-height) )
 }
 *{
     box-sizing: inherit;
