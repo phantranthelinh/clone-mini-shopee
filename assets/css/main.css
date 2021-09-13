@@ -1150,3 +1150,6 @@ i.home-product-item__action-heart--hearted-yes{
     flex-direction: column;
     margin-top: 0;
 }
+.search-checkbox:checked ~ .all-search{
+    display:flex;
+}
