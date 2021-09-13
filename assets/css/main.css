@@ -1135,9 +1135,10 @@ i.home-product-item__action-heart--hearted-yes{
 }
 /* pagination 
  */
-.home-produc__pagination{
+.home-product__pagination{
     margin-top: 48px;
     margin-bottom: 32px;
+    padding-left: 0;
 }
 
 /* footer  */
