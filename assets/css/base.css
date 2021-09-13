@@ -244,7 +244,8 @@ html{
 
 }
 .footer-copyright{
-    font-size: 1.4rem;
+    margin: 20px;
     text-align: center;
-    padding:8px 0;
+    width:100%;
+    color: #555;
 }
