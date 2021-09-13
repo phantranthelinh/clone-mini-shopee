@@ -1,2 +1,2 @@
 # shoppe/shop 
-link demo : https://phantranthelinh.github.io/shopee-shop/
+<a href="https://phantranthelinh.github.io/shopee-shop/">Live Demo </a>
